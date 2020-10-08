@@ -1,0 +1,16 @@
+c:\Users\nazim-satcom\source\repos\ACM.BL\ACM.BLTest\obj\Debug\netcoreapp2.1\ACM.BLTest.csprojResolveAssemblyReference.cache
+c:\Users\nazim-satcom\source\repos\ACM.BL\ACM.BLTest\obj\Debug\netcoreapp2.1\ACM.BLTest.csproj.CoreCompileInputs.cache
+c:\Users\nazim-satcom\source\repos\ACM.BL\ACM.BLTest\obj\Debug\netcoreapp2.1\ACM.BLTest.AssemblyInfoInputs.cache
+c:\Users\nazim-satcom\source\repos\ACM.BL\ACM.BLTest\obj\Debug\netcoreapp2.1\ACM.BLTest.AssemblyInfo.cs
+c:\Users\nazim-satcom\source\repos\ACM.BL\ACM.BLTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\nazim-satcom\source\repos\ACM.BL\ACM.BLTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\nazim-satcom\source\repos\ACM.BL\ACM.BLTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\nazim-satcom\source\repos\ACM.BL\ACM.BLTest\bin\Debug\netcoreapp2.1\ACM.BLTest.deps.json
+c:\Users\nazim-satcom\source\repos\ACM.BL\ACM.BLTest\bin\Debug\netcoreapp2.1\ACM.BLTest.runtimeconfig.json
+c:\Users\nazim-satcom\source\repos\ACM.BL\ACM.BLTest\bin\Debug\netcoreapp2.1\ACM.BLTest.runtimeconfig.dev.json
+c:\Users\nazim-satcom\source\repos\ACM.BL\ACM.BLTest\bin\Debug\netcoreapp2.1\ACM.BLTest.dll
+c:\Users\nazim-satcom\source\repos\ACM.BL\ACM.BLTest\bin\Debug\netcoreapp2.1\ACM.BLTest.pdb
+c:\Users\nazim-satcom\source\repos\ACM.BL\ACM.BLTest\bin\Debug\netcoreapp2.1\ACM.BL.dll
+c:\Users\nazim-satcom\source\repos\ACM.BL\ACM.BLTest\bin\Debug\netcoreapp2.1\ACM.BL.pdb
+c:\Users\nazim-satcom\source\repos\ACM.BL\ACM.BLTest\obj\Debug\netcoreapp2.1\ACM.BLTest.dll
+c:\Users\nazim-satcom\source\repos\ACM.BL\ACM.BLTest\obj\Debug\netcoreapp2.1\ACM.BLTest.pdb

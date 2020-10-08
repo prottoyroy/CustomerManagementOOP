@@ -1,0 +1,9 @@
+c:\users\nazim-satcom\source\repos\ACM.BL\ACM.BL\obj\Debug\netcoreapp2.1\ACM.BL.csproj.CoreCompileInputs.cache
+c:\users\nazim-satcom\source\repos\ACM.BL\ACM.BL\obj\Debug\netcoreapp2.1\ACM.BL.AssemblyInfoInputs.cache
+c:\users\nazim-satcom\source\repos\ACM.BL\ACM.BL\obj\Debug\netcoreapp2.1\ACM.BL.AssemblyInfo.cs
+c:\users\nazim-satcom\source\repos\ACM.BL\ACM.BL\bin\Debug\netcoreapp2.1\ACM.BL.deps.json
+c:\users\nazim-satcom\source\repos\ACM.BL\ACM.BL\bin\Debug\netcoreapp2.1\ACM.BL.dll
+c:\users\nazim-satcom\source\repos\ACM.BL\ACM.BL\bin\Debug\netcoreapp2.1\ACM.BL.pdb
+c:\users\nazim-satcom\source\repos\ACM.BL\ACM.BL\obj\Debug\netcoreapp2.1\ACM.BL.dll
+c:\users\nazim-satcom\source\repos\ACM.BL\ACM.BL\obj\Debug\netcoreapp2.1\ACM.BL.pdb
+C:\Users\nazim-satcom\source\repos\ACM.BL\ACM.BL\obj\Debug\netcoreapp2.1\ACM.BL.csprojResolveAssemblyReference.cache
